@@ -69,5 +69,3 @@ java-notepad/
 - Support for more file formats (e.g. `.rtf`)
 
 ---
-
-## Author
