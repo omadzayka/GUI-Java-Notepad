@@ -71,5 +71,3 @@ java-notepad/
 ---
 
 ## Author
-
-Made by **your-username** — feel free to connect on [LinkedIn](#) or check out my other projects!
